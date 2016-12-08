@@ -1,0 +1,4 @@
+﻿<Resources>
+  <TextureData path="spritesheets.xml" resourcePath="../Textures/"></TextureData>
+  <TextureData path="fantastic_hearts_sheet.xml" resourcePath="../Textures/"></TextureData>
+</Resources>

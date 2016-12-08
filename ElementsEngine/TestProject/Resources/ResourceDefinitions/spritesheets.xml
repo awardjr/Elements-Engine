@@ -1,0 +1,9 @@
+﻿<TextureAtlas imagePath="Resources\Textures\test.png" width="128" height="512">
+  <sprite n="asteroid1" x="0" y="0" w="128" h="128"/>
+  <sprite n="asteroid2" x="0" y="128" w="128" h="128"/>
+  <sprite n="asteroid3" x="0" y="256" w="128" h="128"/>
+  <sprite n="asteroid4" x="0" y="384" w="64" h="64"/>
+  <sprite n="basicHeart" x="64" y="384" w="64" h="64"/>
+  <sprite n="asteroid6" x="0" y="448" w="64" h="64"/>
+  <sprite n="asteroid7" x="64" y="448" w="64" h="64"/>
+</TextureAtlas>

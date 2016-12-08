@@ -1,0 +1,11 @@
+﻿<Audio>
+  <sound>1.ogg</sound>
+  <sound>2.ogg</sound>
+  <Collection name="counting">
+    <sound>1.ogg</sound>
+    <sound>2.ogg</sound>
+    <sound>3.ogg</sound>
+    <sound>4.ogg</sound>
+    <sound>5.ogg</sound>
+  </Collection>
+</Audio>
